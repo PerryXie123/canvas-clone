@@ -1,0 +1,47 @@
+.middle{
+    font-family: Lato, Arial;
+    margin-top: 20px;
+    border: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: rgb(189, 189, 189);
+    height: 53px;
+    margin-left: 88px;
+    margin-right: 510px;
+
+}
+
+.header{
+    font-weight: 700;
+    color: rgb(45, 59, 69);
+    font-size: 34px;
+    margin-left: 110px;
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+.three-dots{
+    font-family: Lato, Arial;
+    color: rgb(45, 59, 69);
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 680px;
+    height: 38px;
+    width: 38px;
+    background-color: white;
+    border-color: white;
+    border-style: solid;
+    padding-bottom: 13px;
+    border-radius: 7px;
+    transition: background-color 0.15s, box-shadow 0.15s;
+    cursor: pointer;
+
+}
+
+.three-dots:hover{
+    background-color: rgb(231, 231, 231); 
+}
+
+.three-dots:active{
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+}

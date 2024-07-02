@@ -1,0 +1,135 @@
+.right{
+    font-family: Lato, Arial;
+}
+
+.todo{
+    width: 196px;
+    font-weight: 700;
+    margin-top: -34px;
+    margin-left: 962px;
+    font-size: 13px;
+    border: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    padding-bottom: 8px;
+    border-color: rgb(189, 189, 189);
+    color: rgb(45, 59, 69);
+}
+
+.nun{
+    width: 196px;
+    margin-top: 8px;
+    margin-left: 962px;
+    font-size: 11.5px;
+    color: rgb(45, 59, 69);
+}
+
+.feedback{
+    width: 196px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 962px;
+    font-size: 13px;
+    border: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    padding-bottom: 8px;
+    border-color: rgb(189, 189, 189);
+    color: rgb(45, 59, 69);
+}
+
+.grades{
+    width: 196px;
+    font-weight: 700;
+    margin-top: -19.5px;
+    margin-left: 986px;
+    font-size: 11.5px;
+    color: rgb(0, 123, 211);
+    cursor: pointer;
+}
+
+.grades:hover{
+    text-decoration: underline;
+}
+
+.check{
+    margin-top: 8px;
+    margin-left: 960px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.check  img{
+    height: 19px;
+}
+
+.class{
+    width: 196px;
+    margin-top: 1.5px;
+    margin-left: 986px;
+    font-size: 10px;
+    padding-bottom: 8px;
+    color: rgb(165, 165, 165);
+    cursor: pointer;
+    
+}
+
+.class:hover{
+    text-decoration: underline;
+}
+
+.outta{
+    width: 196px;
+    font-weight: 700;
+    margin-top: -3px;
+    margin-left: 986px;
+    font-size: 10px;
+    padding-bottom: 8px;
+    color: rgb(141, 141, 141);
+    cursor: pointer;
+}
+
+.outta:hover{
+    text-decoration: underline;
+}
+
+.comment{
+    width: 150px;
+    margin-top: -6px;
+    margin-left: 986px;
+    font-size: 10px;
+    padding-bottom: 8px;
+    color: rgb(165, 165, 165);
+    cursor: pointer;
+}
+
+.comment:hover{
+    text-decoration: underline;
+}
+
+.view{
+    margin-top: 18px;
+    margin-left: 960px;
+}
+
+.view button{
+    font-family: Lato, Arial;
+    color: rgb(45, 59, 69);
+    border: 1px;
+    border-style: solid;
+    background-color: rgb(241, 241, 241);
+    border-color: rgb(206, 206, 206);
+    border-radius: 3px;
+    font-size: 13px;
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom:9px;
+    padding-right: 110px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.view button:hover{
+    background-color: rgb(228, 228, 228);
+}
+

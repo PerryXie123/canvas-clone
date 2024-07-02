@@ -1,0 +1,101 @@
+.bottom{
+    border: 0px;
+    border-top: 1px;
+    border-style: solid;
+    border-color: rgb(194, 194, 194);
+    margin-left: 75px;
+    margin-top: 577px;
+    padding-top: 13px;
+    width: 1255px;
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 14px;
+    cursor: pointer;
+}
+
+.pan{
+    font-family: Lato, Arial;
+    font-size: 14px;
+    color: rgb(0,69,124);
+    margin-left: 70px;
+    border: 0px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: rgb(0,69,124);
+    padding-bottom: 3px;
+    padding-right: 35px;
+    cursor: pointer;
+}
+
+.kahu{
+    font-family: Lato, Arial;
+    font-size: 14px;
+    color: rgb(0,69,124);
+    margin-left: 35px;
+    border: 0px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: rgb(0,69,124);
+    padding-bottom: 3px;
+    padding-right: 35px;
+    cursor: pointer; 
+}
+
+.myuoa{
+    font-family: Lato, Arial;
+    font-size: 14px;
+    color: rgb(0,69,124);
+    margin-left: 35px;
+    border: 0px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: rgb(0,69,124);
+    padding-bottom: 3px;
+    padding-right: 35px;
+    cursor: pointer; 
+}
+
+.email{
+    font-family: Lato, Arial;
+    font-size: 14px;
+    color: rgb(0,69,124);
+    margin-left: 35px;
+    border: 0px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: rgb(0,69,124);
+    padding-bottom: 3px;
+    padding-right: 35px;
+    cursor: pointer; 
+}
+
+.ict{
+    font-family: Lato, Arial;
+    font-size: 14px;
+    color: rgb(0,69,124);
+    margin-left: 35px;
+    border: 0px;
+    border-right: 1px;
+    border-style: solid;
+    border-color: rgb(0,69,124);
+    padding-bottom: 3px;
+    padding-right: 35px;
+    cursor: pointer; 
+}
+
+.tos{
+    font-family: Lato, Arial;
+    font-size: 14px;
+    color: rgb(0,69,124);
+    margin-left: 35px;
+    padding-bottom: 3px;
+    padding-right: 35px;
+    cursor: pointer; 
+}
+
+.pan:hover, .kahu:hover, .myuoa:hover, .email:hover, .ict:hover, .tos:hover{
+    text-decoration: underline;
+}

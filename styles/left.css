@@ -1,0 +1,88 @@
+.left{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 70px;
+  background-color: white;
+  z-index: 3;
+}
+  
+.sidebar-icons{
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  cursor: pointer;
+  font-family: Lato, Arial;
+  font-size: 10px;
+  color: white;
+  background-color: rgb(0,69,124);
+}
+
+.sidebar-uoa{
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.sidebar-arrow{
+  position: fixed;
+  height: 74px;
+  flex-direction: column;
+  cursor: pointer;
+  background-color: rgb(0,69,124);
+  bottom: 0;
+}
+
+.sidebar-dash{
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  cursor: pointer;
+  font-family: Lato, Arial;
+  font-size: 10px;
+}
+
+.sidebar-dash img{
+  display: flex;
+  height: 24px;
+  margin-bottom: 4px;
+}
+
+.sidebar-uoa img{
+  display: flex;
+  height: 50px;
+  margin-bottom: 4px;
+  border: 1px;
+}
+
+.sidebar-arrow img{
+  display: flex;
+  height: 24px;
+  margin-bottom: 4px;
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+  
+.sidebar-icons:hover{
+  background-color: rgb(124, 101, 0);
+}
+
+.sidebar-dash:hover{
+  background-color: rgb(124, 101, 0);
+}
+  
+  
+.sidebar-icons img{
+  display: flex;
+  height: 24px;
+  margin-bottom: 4px;
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
